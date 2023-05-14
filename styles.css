@@ -1,0 +1,40 @@
+button {
+  background-color: #0c80f3;
+  border: 6px solid #0ff166;
+  border-radius: 10px;
+  width: 150px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
+
+#mode-select{
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  background: #8ec4a3;
+}
+#total{
+  text-align: right;
+}
+
+
+#transaction{
+  background: #95a89d;
+  text-align: left;
+  font-size: small;
+  margin: 5px;
+  padding: 5px;
+} 
+li {
+  list-style-type:disc;
+}
+#transactionHistory{
+  text-align: center;
+  border: black 1px solid;
+  font-size: small;
+  background:rgb(117, 150, 89);
+  }
