@@ -1,5 +1,5 @@
 <h1>REFACTORED ATM PROJECT</h1>
-<img href="./atmPic.jpg">
+<img src="./atmPic.jpg">
 
 <h2>Original requirements</h2>
 <ul><u>Code an app for a mock bank with the following elements</u>
