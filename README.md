@@ -2,7 +2,7 @@
 <img href="./atmPic.jpg">
 
 <h2>Original requirements</h2>
-<ul>Code an app for a mock bank with the following elements
+<ul><u>Code an app for a mock bank with the following elements</u>
     <li>A drop down menu to indicate a deposit or withdraw</li>
     <li>An input box that takes the disired amount of withdraw or deposit</li>
     <li>Submit is blocked for withdraws when account has insufficent funds</li>    
